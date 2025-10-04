@@ -31,8 +31,8 @@ It fetches random book details from the **[FreeAPI Books API](https://freeapi.ap
 ## ▶️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/random-book-finder.git
-   cd random-book-finder
+   git clone https://github.com/Shivamg0520/book-api-explorer.git
+   cd book-api-explorer
    ```
 
 2. Install required packages:
